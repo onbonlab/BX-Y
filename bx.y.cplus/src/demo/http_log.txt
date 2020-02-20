@@ -1,0 +1,932 @@
+2018-06-21 14:53:08:vector barcode:123456
+2018-06-21 14:53:08:3521 ;pid:123456
+2018-06-21 14:53:12:vector barcode:123456
+2018-06-21 14:53:12:3521 ;pid:123456
+2018-06-21 14:53:13:vector barcode:123456
+2018-06-21 14:53:13:3521 ;pid:123456
+2018-06-21 16:41:14:vector barcode:C0Y3001804250075
+2018-06-21 16:41:14:4779 ;pid:C0Y3001804250075
+2018-06-21 16:41:17:vector barcode:C0Y3001804250075
+2018-06-21 16:41:17:4779 ;pid:C0Y3001804250075
+2018-06-21 16:41:19:vector barcode:C0Y3001804250075
+2018-06-21 16:41:19:4779 ;pid:C0Y3001804250075
+2018-06-21 16:41:21:vector barcode:C0Y3001804250075
+2018-06-21 16:41:21:4779 ;pid:C0Y3001804250075
+2018-06-21 16:41:22:vector barcode:C0Y3001804250075
+2018-06-21 16:56:29:vector barcode:C0Y3001804250075
+2018-06-21 16:56:29:4904 ;pid:C0Y3001804250075
+2018-06-21 16:56:32:vector barcode:C0Y3001804250075
+2018-06-21 16:56:32:4904 ;pid:C0Y3001804250075
+2018-06-21 17:01:55:vector barcode:C0Y3001804250075
+2018-06-21 17:01:55:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:01:56:vector barcode:C0Y3001804250075
+2018-06-21 17:01:56:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:01:57:vector barcode:C0Y3001804250075
+2018-06-21 17:01:57:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:01:59:vector barcode:C0Y3001804250075
+2018-06-21 17:01:59:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:02:vector barcode:C0Y3001804250075
+2018-06-21 17:02:02:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:05:vector barcode:C0Y3001804250075
+2018-06-21 17:02:05:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:06:vector barcode:C0Y3001804250075
+2018-06-21 17:02:06:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:09:vector barcode:C0Y3001804250075
+2018-06-21 17:02:09:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:12:vector barcode:C0Y3001804250075
+2018-06-21 17:02:12:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:02:16:vector barcode:C0Y3001804250075
+2018-06-21 17:02:16:4958 ;barcode:C0Y3001804250075
+2018-06-21 17:13:23:vector barcode:C0Y3001804250075
+2018-06-21 17:13:23:46684 ;pid:C0Y3001804250075
+2018-06-21 17:13:26:vector barcode:C0Y3001804250075
+2018-06-21 17:13:26:46684 ;pid:C0Y3001804250075
+2018-06-21 17:13:34:vector barcode:C0Y3001804250075
+2018-06-21 17:13:34:46684 ;pid:C0Y3001804250075
+2018-06-21 17:14:36:vector barcode:C0Y3001804250075
+2018-06-21 17:14:36:46684 ;pid:C0Y3001804250075
+2018-06-21 17:14:44:vector barcode:C0Y3001804250075
+2018-06-21 17:14:44:46684 ;pid:C0Y3001804250075
+2018-06-21 17:14:47:vector barcode:C0Y3001804250075
+2018-06-21 17:14:47:46684 ;pid:C0Y3001804250075
+2018-06-21 17:15:32:vector barcode:C0Y3001804250075
+2018-06-21 17:15:32:46684 ;pid:C0Y3001804250075
+2018-06-21 17:21:40:vector barcode:C0Y3001804250075
+2018-06-21 17:21:40:46684 ;pid:C0Y3001804250075
+2018-06-21 17:21:42:vector barcode:C0Y3001804250075
+2018-06-21 17:21:42:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:19:vector barcode:C0Y3001804250075
+2018-06-21 17:23:19:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:24:vector barcode:C0Y3001804250075
+2018-06-21 17:23:24:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:30:vector barcode:C0Y3001804250075
+2018-06-21 17:23:30:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:36:vector barcode:C0Y3001804250075
+2018-06-21 17:23:36:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:43:vector barcode:C0Y3001804250075
+2018-06-21 17:23:43:46684 ;pid:C0Y3001804250075
+2018-06-21 17:23:50:vector barcode:C0Y3001804250075
+2018-06-21 17:23:50:46684 ;pid:C0Y3001804250075
+2018-06-21 17:33:11:vector barcode:C0Y3001804250075
+2018-06-21 17:33:11:46684 ;pid:C0Y3001804250075
+2018-06-21 17:33:25:vector barcode:C0Y3001804250075
+2018-06-21 17:33:25:46684 ;pid:C0Y3001804250075
+2018-06-21 17:33:25:vector barcode:C0Y3001804250075
+2018-06-21 17:33:25:46684 ;pid:C0Y3001804250075
+2018-06-21 17:33:26:vector barcode:C0Y3001804250075
+2018-06-21 17:33:26:46684 ;pid:C0Y3001804250075
+2018-06-21 17:35:29:vector barcode:C0Y3001804250075
+2018-06-21 17:35:29:48350 ;pid:C0Y3001804250075
+2018-06-21 17:35:47:vector barcode:C0Y3001804250075
+2018-06-21 17:35:47:48350 ;pid:C0Y3001804250075
+2018-06-21 17:35:48:vector barcode:C0Y3001804250075
+2018-06-21 17:35:48:48350 ;pid:C0Y3001804250075
+2018-06-21 17:35:48:vector barcode:C0Y3001804250075
+2018-06-21 17:35:48:48350 ;pid:C0Y3001804250075
+2018-06-21 17:38:06:vector barcode:C0Y3001804250075
+2018-06-21 17:38:06:48600 ;pid:C0Y3001804250075
+2018-06-21 17:38:12:vector barcode:C0Y3001804250075
+2018-06-21 17:38:12:48600 ;pid:C0Y3001804250075
+2018-06-21 17:38:36:vector barcode:C0Y3001804250075
+2018-06-21 17:38:36:48600 ;pid:C0Y3001804250075
+2018-06-21 17:38:42:vector barcode:C0Y3001804250075
+2018-06-21 17:38:42:48600 ;pid:C0Y3001804250075
+2018-06-21 17:39:05:vector barcode:C0Y3001804250075
+2018-06-21 17:39:05:48600 ;pid:C0Y3001804250075
+2018-06-21 17:39:16:vector barcode:C0Y3001804250075
+2018-06-21 17:39:16:48600 ;pid:C0Y3001804250075
+2018-06-21 17:39:30:vector barcode:C0Y3001804250075
+2018-06-21 17:39:31:48600 ;pid:C0Y3001804250075
+2018-06-21 17:39:38:vector barcode:C0Y3001804250075
+2018-06-21 17:39:38:48600 ;pid:C0Y3001804250075
+2018-06-21 17:48:41:vector barcode:C0Y3001804250075
+2018-06-21 17:48:41:48600 ;pid:C0Y3001804250075
+2018-06-21 17:48:42:vector barcode:C0Y3001804250075
+2018-06-21 17:48:42:48600 ;pid:C0Y3001804250075
+2018-06-21 17:48:44:vector barcode:C0Y3001804250075
+2018-06-21 17:48:44:48600 ;pid:C0Y3001804250075
+2018-06-21 17:48:47:vector barcode:C0Y3001804250075
+2018-06-21 17:48:47:48600 ;pid:C0Y3001804250075
+2018-06-21 17:48:50:vector barcode:C0Y3001804250075
+2018-06-21 17:48:50:48600 ;pid:C0Y3001804250075
+2018-06-22 09:28:43:cd28945ac0025ebe7a747634573dab36
+2018-06-22 09:28:43:X-Content-Range:bytes 0-285/286
+2018-06-22 09:28:43:Upload OK
+2018-06-22 09:28:43:286 out
+2018-06-22 09:28:43:50c6b75a6a9499d92694bee424bb4f9a
+2018-06-22 09:28:43:X-Content-Range:bytes 0-342/343
+2018-06-22 09:28:43:Upload OK
+2018-06-22 09:28:43:343 out
+2018-06-22 09:28:43:2d3a290188c7f90dab1cb80d219bc70c
+2018-06-22 09:28:43:X-Content-Range:bytes 0-78093/78094
+2018-06-22 09:28:43:Upload OK
+2018-06-22 09:28:43:78094 out
+2018-06-22 09:34:50:vector barcode:C0Y3001804250075
+2018-06-22 09:34:50:51983 ;barcode:C0Y3001804250075
+2018-06-22 09:34:56:vector barcode:C0Y3001804250075
+2018-06-22 09:34:56:vector barcode:C0Y2001804250070
+2018-06-22 09:35:03:vector barcode:C0Y3001804250075
+2018-06-22 09:35:03:51983 ;barcode:C0Y3001804250075
+2018-06-22 10:58:56:vector barcode:C0Y2001804250070
+2018-06-22 10:58:56:56805 ;barcode:C0Y2001804250070
+2018-06-22 10:59:01:vector barcode:C0Y2001804250070
+2018-06-22 10:59:01:vector barcode:C0Y3001804250075
+2018-06-22 10:59:01:56810 ;barcode:C0Y3001804250075
+2018-06-22 10:59:06:vector barcode:C0Y2001804250070
+2018-06-22 10:59:06:vector barcode:C0Y3001804250075
+2018-06-22 10:59:06:56810 ;barcode:C0Y3001804250075
+2018-06-22 10:59:20:vector barcode:C0Y2001804250070
+2018-06-22 10:59:20:vector barcode:C0Y3001804250075
+2018-06-22 10:59:20:56810 ;barcode:C0Y3001804250075
+2018-06-22 10:59:20:vector barcode:C0Y2001804250070
+2018-06-22 10:59:20:vector barcode:C0Y3001804250075
+2018-06-22 10:59:20:56810 ;barcode:C0Y3001804250075
+2018-06-22 10:59:20:vector barcode:C0Y2001804250070
+2018-06-22 10:59:20:vector barcode:C0Y3001804250075
+2018-06-22 10:59:20:56810 ;barcode:C0Y3001804250075
+2018-06-22 10:59:43:vector barcode:C0Y2001804250070
+2018-06-22 10:59:43:56805 ;barcode:C0Y2001804250070
+2018-06-22 10:59:53:vector barcode:C0Y2001804250070
+2018-06-22 10:59:53:56805 ;barcode:C0Y2001804250070
+2018-06-22 10:59:53:vector barcode:C0Y2001804250070
+2018-06-22 10:59:53:56805 ;barcode:C0Y2001804250070
+2018-06-22 10:59:53:vector barcode:C0Y2001804250070
+2018-06-22 10:59:53:56805 ;barcode:C0Y2001804250070
+2018-11-21 10:28:49:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:28:49:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102851154009"}}}
+2018-11-21 10:28:49:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"97fb7b542e3f91916fcc6deb4218de1a735916e1","username":"guest","verificationcode":"20181121102851154009"}}}}
+
+2018-11-21 10:28:49:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e4d81a6649514a73f410f6ed58439ef0"}}}
+2018-11-21 10:28:49:http://192.168.89.125:80/;stok=e4d81a6649514a73f410f6ed58439ef0/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:28:49:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "50", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:28:50:http://192.168.89.125:80/;stok=e4d81a6649514a73f410f6ed58439ef0/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:28:50:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:02:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:02:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102904213452"}}}
+2018-11-21 10:29:02:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"0305d24e7d1e3dec2d10ec3e3d652e13b6368d56","username":"guest","verificationcode":"20181121102904213452"}}}}
+
+2018-11-21 10:29:02:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "7798e8006d116bde61ef8d3c297ac693"}}}
+2018-11-21 10:29:02:http://192.168.89.125:80/;stok=7798e8006d116bde61ef8d3c297ac693/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"firmwareversion":"","fpgaversion":"","playerversion":""}}}}
+
+2018-11-21 10:29:02:{"remotefunction": {"name": "getproperty", "output": {"firmwareversion": "18110200", "fpgaversion": "18101012", "playerversion": "18110200"}}}
+2018-11-21 10:29:02:http://192.168.89.125:80/;stok=7798e8006d116bde61ef8d3c297ac693/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:02:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:05:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:05:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102907224259"}}}
+2018-11-21 10:29:05:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"49dbbd70047148b6672a9b98c26b1ba4bb0af259","username":"guest","verificationcode":"20181121102907224259"}}}}
+
+2018-11-21 10:29:05:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "1205e0cb654f11454ed380b42ee03a30"}}}
+2018-11-21 10:29:05:http://192.168.89.125:80/;stok=1205e0cb654f11454ed380b42ee03a30/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:29:05:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "50", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:29:05:http://192.168.89.125:80/;stok=1205e0cb654f11454ed380b42ee03a30/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:05:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:08:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102910305905"}}}
+2018-11-21 10:29:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"10aae647d7730b76709f0c990f338dc2ed449ea9","username":"guest","verificationcode":"20181121102910305905"}}}}
+
+2018-11-21 10:29:08:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "9b59c0117b8df8c311860a0c1f1ec589"}}}
+2018-11-21 10:29:08:http://192.168.89.125:80/;stok=9b59c0117b8df8c311860a0c1f1ec589/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:29:08:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "50", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:29:09:http://192.168.89.125:80/;stok=9b59c0117b8df8c311860a0c1f1ec589/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:09:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:12:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:12:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102914210585"}}}
+2018-11-21 10:29:12:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"e20cb3fcd94cbb41efa0ebd2b1b9756f438c0871","username":"guest","verificationcode":"20181121102914210585"}}}}
+
+2018-11-21 10:29:12:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "a1a6a9f204e018f5e1797c71ab0fe6d7"}}}
+2018-11-21 10:29:12:http://192.168.89.125:80/;stok=a1a6a9f204e018f5e1797c71ab0fe6d7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SystemBrightness","input":{"brightness":"50"}}}}
+
+2018-11-21 10:29:12:{"remotefunction": {"name": "systembrightness", "output": {"cmd": "41", "cmdstatus": "0", "data": "", "datalength": "0"}}}
+2018-11-21 10:29:12:http://192.168.89.125:80/;stok=a1a6a9f204e018f5e1797c71ab0fe6d7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:12:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:19:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:19:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102921584196"}}}
+2018-11-21 10:29:19:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"50dca13a2529a33225e73ab353c97101acea2414","username":"guest","verificationcode":"20181121102921584196"}}}}
+
+2018-11-21 10:29:19:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "ce0a2c9361d850b8b353532b2bf0360d"}}}
+2018-11-21 10:29:19:http://192.168.89.125:80/;stok=ce0a2c9361d850b8b353532b2bf0360d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SystemBrightness","input":{"brightness":"255"}}}}
+
+2018-11-21 10:29:19:{"remotefunction": {"name": "systembrightness", "output": {"cmd": "41", "cmdstatus": "0", "data": "", "datalength": "0"}}}
+2018-11-21 10:29:19:http://192.168.89.125:80/;stok=ce0a2c9361d850b8b353532b2bf0360d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:19:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:23:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:23:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102926474114"}}}
+2018-11-21 10:29:23:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"fcb572c09023dbdd6cab27e46a73ab7e2e696c9a","username":"guest","verificationcode":"20181121102926474114"}}}}
+
+2018-11-21 10:29:23:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e418942853d5bb313edee43a4a832a8d"}}}
+2018-11-21 10:29:24:http://192.168.89.125:80/;stok=e418942853d5bb313edee43a4a832a8d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SystemClockCorrect","input":{"datetime":"2018-11-21 02:29:23","isutc":"yes"}}}}
+
+2018-11-21 10:29:24:{"remotefunction": {"name": "systemclockcorrect"}}
+2018-11-21 10:29:24:http://192.168.89.125:80/;stok=e418942853d5bb313edee43a4a832a8d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:24:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102929334410"}}}
+2018-11-21 10:29:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"8aa51114433731654e1c5378a70188602a22796a","username":"guest","verificationcode":"20181121102929334410"}}}}
+
+2018-11-21 10:29:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "ddaca8cc16e09945d7fac2e99d71e9d3"}}}
+2018-11-21 10:29:30:http://192.168.89.125:80/;stok=ddaca8cc16e09945d7fac2e99d71e9d3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:29:30:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:29:30:http://192.168.89.125:80/;stok=ddaca8cc16e09945d7fac2e99d71e9d3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:30:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:43:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102942221051"}}}
+2018-11-21 10:29:43:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"21b1c2f9342b3e9a8c214d06fa37702908ffde2c","username":"guest","verificationcode":"20181121102942221051"}}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "80fae683792530afa3e022d804f879d1"}}}
+2018-11-21 10:29:43:http://192.168.89.125:80/;stok=80fae683792530afa3e022d804f879d1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:29:43:http://192.168.89.125:80/;stok=80fae683792530afa3e022d804f879d1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:43:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102942583770"}}}
+2018-11-21 10:29:43:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"3e1e47b233161f270a7fec40addd9bd7b4c1e5e4","username":"guest","verificationcode":"20181121102942583770"}}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "363abb3de1078f2b84091767d1ab8d2d"}}}
+2018-11-21 10:29:43:http://192.168.89.125:80/;stok=363abb3de1078f2b84091767d1ab8d2d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:29:43:http://192.168.89.125:80/;stok=363abb3de1078f2b84091767d1ab8d2d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:43:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:54:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102953648802"}}}
+2018-11-21 10:29:54:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"b8521fd162e9213c3b028f4f65b3b6ff8a78f55b","username":"guest","verificationcode":"20181121102953648802"}}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "d2bee6b281669ac78b9b1fe5d0afba1b"}}}
+2018-11-21 10:29:54:http://192.168.89.125:80/;stok=d2bee6b281669ac78b9b1fe5d0afba1b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:29:54:http://192.168.89.125:80/;stok=d2bee6b281669ac78b9b1fe5d0afba1b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:29:54:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121102953980140"}}}
+2018-11-21 10:29:54:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"34314148a3dc931efb6bfcde897ad0ca5414abd2","username":"guest","verificationcode":"20181121102953980140"}}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "acb4041f85a65d71934576de34c13a0a"}}}
+2018-11-21 10:29:54:http://192.168.89.125:80/;stok=acb4041f85a65d71934576de34c13a0a/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:29:54:http://192.168.89.125:80/;stok=acb4041f85a65d71934576de34c13a0a/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:29:54:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:30:22:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103021840274"}}}
+2018-11-21 10:30:22:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"03402d604205b975ffc2d34ed8e23bdc6f2539ac","username":"guest","verificationcode":"20181121103021840274"}}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "a6b273fc74928e15585e32786f54c90d"}}}
+2018-11-21 10:30:22:http://192.168.89.125:80/;stok=a6b273fc74928e15585e32786f54c90d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:30:22:http://192.168.89.125:80/;stok=a6b273fc74928e15585e32786f54c90d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:30:22:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103021182960"}}}
+2018-11-21 10:30:22:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"2a11ebd637415fe38e2a277d065b0198a3913ed9","username":"guest","verificationcode":"20181121103021182960"}}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "8b968032cb452b7daabd6216c67fe762"}}}
+2018-11-21 10:30:22:http://192.168.89.125:80/;stok=8b968032cb452b7daabd6216c67fe762/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:30:22:http://192.168.89.125:80/;stok=8b968032cb452b7daabd6216c67fe762/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:30:22:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:31:39:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:31:39:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103137786039"}}}
+2018-11-21 10:31:39:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"a0556e81b76546e61d214e4638e24e7f22e82d1a","username":"guest","verificationcode":"20181121103137786039"}}}}
+
+2018-11-21 10:31:39:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "01819bff935499610ad23df45737ce70"}}}
+2018-11-21 10:31:39:http://192.168.89.125:80/;stok=01819bff935499610ad23df45737ce70/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:31:39:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:31:39:http://192.168.89.125:80/;stok=01819bff935499610ad23df45737ce70/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:31:39:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:32:00:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103159688255"}}}
+2018-11-21 10:32:00:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"c737244475f9fabb441cd3989527f61c1c844c05","username":"guest","verificationcode":"20181121103159688255"}}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "6121091fbd8061d55f0e0100cc00562f"}}}
+2018-11-21 10:32:00:http://192.168.89.125:80/;stok=6121091fbd8061d55f0e0100cc00562f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:32:00:http://192.168.89.125:80/;stok=6121091fbd8061d55f0e0100cc00562f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:32:00:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103159237843"}}}
+2018-11-21 10:32:00:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"5795eabfced8984a777686c45f662bde71c6f0aa","username":"guest","verificationcode":"20181121103159237843"}}}}
+
+2018-11-21 10:32:00:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "7d389756959f8c54ad0fe295b5041173"}}}
+2018-11-21 10:32:01:http://192.168.89.125:80/;stok=7d389756959f8c54ad0fe295b5041173/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:32:01:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:32:01:http://192.168.89.125:80/;stok=7d389756959f8c54ad0fe295b5041173/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:32:01:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:34:45:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:34:45:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103444560137"}}}
+2018-11-21 10:34:45:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"1f103d7568a43ef4e238604e97a2d4b5e5eed769","username":"guest","verificationcode":"20181121103444560137"}}}}
+
+2018-11-21 10:34:45:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e7b122a1687bc697722f65786c72895d"}}}
+2018-11-21 10:34:45:http://192.168.89.125:80/;stok=e7b122a1687bc697722f65786c72895d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:34:46:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:34:46:http://192.168.89.125:80/;stok=e7b122a1687bc697722f65786c72895d/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:34:46:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:35:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103529953248"}}}
+2018-11-21 10:35:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"23987e3369a53fa207063b7be81c45ee286c6249","username":"guest","verificationcode":"20181121103529953248"}}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e68dfc7950a8095b801bd55b1809fcf5"}}}
+2018-11-21 10:35:30:http://192.168.89.125:80/;stok=e68dfc7950a8095b801bd55b1809fcf5/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:35:30:http://192.168.89.125:80/;stok=e68dfc7950a8095b801bd55b1809fcf5/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:35:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103529523132"}}}
+2018-11-21 10:35:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"810754b11e4b91ad5b60c3f93e830011724e6253","username":"guest","verificationcode":"20181121103529523132"}}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "13952cf852a5b3066bbd53ca2c2678b9"}}}
+2018-11-21 10:35:30:http://192.168.89.125:80/;stok=13952cf852a5b3066bbd53ca2c2678b9/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:35:30:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:35:31:http://192.168.89.125:80/;stok=13952cf852a5b3066bbd53ca2c2678b9/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:35:31:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:36:21:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:36:21:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103620220780"}}}
+2018-11-21 10:36:21:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"0125640d550c20efcef363af1edea7fd23a9a92f","username":"guest","verificationcode":"20181121103620220780"}}}}
+
+2018-11-21 10:36:21:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "4f3c23cc6846cec8cba5e539ca3b5a07"}}}
+2018-11-21 10:36:21:http://192.168.89.125:80/;stok=4f3c23cc6846cec8cba5e539ca3b5a07/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:36:21:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:36:21:http://192.168.89.125:80/;stok=4f3c23cc6846cec8cba5e539ca3b5a07/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:36:21:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:37:13:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:37:13:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103712322894"}}}
+2018-11-21 10:37:13:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"c48e1772293b3901915d18fcaf4fe49360aeb2c9","username":"guest","verificationcode":"20181121103712322894"}}}}
+
+2018-11-21 10:37:13:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "2263e7ed89802cc39bbab3c591cb2ea4"}}}
+2018-11-21 10:37:13:http://192.168.89.125:80/;stok=2263e7ed89802cc39bbab3c591cb2ea4/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:37:13:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:37:13:http://192.168.89.125:80/;stok=2263e7ed89802cc39bbab3c591cb2ea4/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:37:13:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:37:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:37:16:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103715881948"}}}
+2018-11-21 10:37:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"96784a7e36e1f65c820c8b3194b5954da3c76e4e","username":"guest","verificationcode":"20181121103715881948"}}}}
+
+2018-11-21 10:37:16:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "f0a9d5fdb0ba4238ff64c3d955927bad"}}}
+2018-11-21 10:37:16:http://192.168.89.125:80/;stok=f0a9d5fdb0ba4238ff64c3d955927bad/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:37:16:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:37:16:http://192.168.89.125:80/;stok=f0a9d5fdb0ba4238ff64c3d955927bad/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:37:16:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:37:29:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:37:29:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103728285126"}}}
+2018-11-21 10:37:29:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"667fb1f50f9b044f949f7f4e2d993f351800e946","username":"guest","verificationcode":"20181121103728285126"}}}}
+
+2018-11-21 10:37:29:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "f9006e03a6b0be57f6af66dba62325cb"}}}
+2018-11-21 10:37:29:http://192.168.89.125:80/;stok=f9006e03a6b0be57f6af66dba62325cb/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:37:29:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:37:30:http://192.168.89.125:80/;stok=f9006e03a6b0be57f6af66dba62325cb/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:37:30:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:37:40:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:37:40:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121103739992272"}}}
+2018-11-21 10:37:40:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"1023557cad139cab2b369c3461328dceaee41fea","username":"guest","verificationcode":"20181121103739992272"}}}}
+
+2018-11-21 10:37:40:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "004e2501f9a2b1f8dcc1c074be548fdd"}}}
+2018-11-21 10:37:40:http://192.168.89.125:80/;stok=004e2501f9a2b1f8dcc1c074be548fdd/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:37:40:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:37:40:http://192.168.89.125:80/;stok=004e2501f9a2b1f8dcc1c074be548fdd/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:37:40:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:42:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:42:16:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104215749796"}}}
+2018-11-21 10:42:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"9ca8f1ec4e50dbef5e76cd451097a90fd51d463e","username":"guest","verificationcode":"20181121104215749796"}}}}
+
+2018-11-21 10:42:16:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "9e147ef09cd509fa88ab252e3dacdf56"}}}
+2018-11-21 10:42:16:http://192.168.89.125:80/;stok=9e147ef09cd509fa88ab252e3dacdf56/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:42:16:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:42:16:http://192.168.89.125:80/;stok=9e147ef09cd509fa88ab252e3dacdf56/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:42:16:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:42:24:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:42:24:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104223487756"}}}
+2018-11-21 10:42:24:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"c8bfdc01e689f3fd0f79df5349348df63d726b00","username":"guest","verificationcode":"20181121104223487756"}}}}
+
+2018-11-21 10:42:24:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e95d47365f997abd29479afbbd6189f7"}}}
+2018-11-21 10:42:24:http://192.168.89.125:80/;stok=e95d47365f997abd29479afbbd6189f7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:42:24:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:42:24:http://192.168.89.125:80/;stok=e95d47365f997abd29479afbbd6189f7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:42:24:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:42:53:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:42:53:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104252431601"}}}
+2018-11-21 10:42:53:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"233aeadea742a06ab273a6e0d275164c8d47a763","username":"guest","verificationcode":"20181121104252431601"}}}}
+
+2018-11-21 10:42:53:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "c9afc6a6780b3bf253ea78abb761e71b"}}}
+2018-11-21 10:42:53:http://192.168.89.125:80/;stok=c9afc6a6780b3bf253ea78abb761e71b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:42:53:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:42:53:http://192.168.89.125:80/;stok=c9afc6a6780b3bf253ea78abb761e71b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:42:53:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:44:10:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:44:10:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104409818037"}}}
+2018-11-21 10:44:10:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"02e877c9cf8d6e39072d28c7abb2c044043c1867","username":"guest","verificationcode":"20181121104409818037"}}}}
+
+2018-11-21 10:44:10:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "2549e8f82906e8e504dd11434ad391ce"}}}
+2018-11-21 10:44:10:http://192.168.89.125:80/;stok=2549e8f82906e8e504dd11434ad391ce/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:44:10:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:44:10:http://192.168.89.125:80/;stok=2549e8f82906e8e504dd11434ad391ce/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:44:10:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:47:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:47:08:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104707371868"}}}
+2018-11-21 10:47:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"7bd5911d2b3b3e52019064261c91dcbf638a3b5a","username":"guest","verificationcode":"20181121104707371868"}}}}
+
+2018-11-21 10:47:08:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "07fad20035cf07e30b1843cc3d5582b4"}}}
+2018-11-21 10:47:08:http://192.168.89.125:80/;stok=07fad20035cf07e30b1843cc3d5582b4/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:47:08:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:47:08:http://192.168.89.125:80/;stok=07fad20035cf07e30b1843cc3d5582b4/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:47:08:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:48:07:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:48:07:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104806257515"}}}
+2018-11-21 10:48:07:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"b5d7096bee18a4a9ed642b9bd0e4022dd14a27e4","username":"guest","verificationcode":"20181121104806257515"}}}}
+
+2018-11-21 10:48:07:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "35f00ae3be6c335272eccbe35d09368e"}}}
+2018-11-21 10:48:08:http://192.168.89.125:80/;stok=35f00ae3be6c335272eccbe35d09368e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:48:08:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:48:08:http://192.168.89.125:80/;stok=35f00ae3be6c335272eccbe35d09368e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:48:08:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:49:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:49:08:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104907529613"}}}
+2018-11-21 10:49:08:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"5b22b5e195a15ed0a8c4d19d55523c1779206513","username":"guest","verificationcode":"20181121104907529613"}}}}
+
+2018-11-21 10:49:08:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "5b6c371249054e4246408c70a4542137"}}}
+2018-11-21 10:49:09:http://192.168.89.125:80/;stok=5b6c371249054e4246408c70a4542137/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:49:09:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:49:09:http://192.168.89.125:80/;stok=5b6c371249054e4246408c70a4542137/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:49:09:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:49:24:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:49:24:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121104923239164"}}}
+2018-11-21 10:49:24:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"ee282e2a7d0a231fde650d6454389ddd7fba3da0","username":"guest","verificationcode":"20181121104923239164"}}}}
+
+2018-11-21 10:49:24:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "c4fc1d52cb73119fbdb444d780e1381f"}}}
+2018-11-21 10:49:24:http://192.168.89.125:80/;stok=c4fc1d52cb73119fbdb444d780e1381f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:49:24:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:49:24:http://192.168.89.125:80/;stok=c4fc1d52cb73119fbdb444d780e1381f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:49:24:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:54:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:54:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121105429783068"}}}
+2018-11-21 10:54:30:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"33895e5fc57194a73097c3ff6fffa61cb784ab36","username":"guest","verificationcode":"20181121105429783068"}}}}
+
+2018-11-21 10:54:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "318f388482b9802913eb22dfb46f77ae"}}}
+2018-11-21 10:54:30:http://192.168.89.125:80/;stok=318f388482b9802913eb22dfb46f77ae/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:54:30:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:54:30:http://192.168.89.125:80/;stok=318f388482b9802913eb22dfb46f77ae/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:54:30:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:54:46:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:54:46:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121105445820629"}}}
+2018-11-21 10:54:46:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"a5d0fd9ff1311ab2b436d4434f9c1a3bef1ec113","username":"guest","verificationcode":"20181121105445820629"}}}}
+
+2018-11-21 10:54:46:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e6e145626de25b0ee4d0ae8941c68869"}}}
+2018-11-21 10:54:46:http://192.168.89.125:80/;stok=e6e145626de25b0ee4d0ae8941c68869/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:54:46:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:54:46:http://192.168.89.125:80/;stok=e6e145626de25b0ee4d0ae8941c68869/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:54:46:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:54:53:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:54:53:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121105452636458"}}}
+2018-11-21 10:54:53:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"febd7d431913e957d609a0f4a6451625757ecfe1","username":"guest","verificationcode":"20181121105452636458"}}}}
+
+2018-11-21 10:54:53:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "05fc5d06a1279516fc506aabbfe3f637"}}}
+2018-11-21 10:54:53:http://192.168.89.125:80/;stok=05fc5d06a1279516fc506aabbfe3f637/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 10:54:53:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 10:54:53:http://192.168.89.125:80/;stok=05fc5d06a1279516fc506aabbfe3f637/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:54:53:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 10:55:28:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 10:55:28:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121105527219658"}}}
+2018-11-21 10:55:28:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"64f6fafc468eb778c212f836669aeb825e24bf20","username":"guest","verificationcode":"20181121105527219658"}}}}
+
+2018-11-21 10:55:28:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "cfcbd069d98abdb71077056cc8eb745b"}}}
+2018-11-21 10:55:28:http://192.168.89.125:80/;stok=cfcbd069d98abdb71077056cc8eb745b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 10:55:28:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 10:55:28:http://192.168.89.125:80/;stok=cfcbd069d98abdb71077056cc8eb745b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 10:55:28:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:01:56:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:01:56:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121110155708677"}}}
+2018-11-21 11:01:56:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"695b06c29776c34a313ebd2e38c6bf1e68c79b36","username":"guest","verificationcode":"20181121110155708677"}}}}
+
+2018-11-21 11:01:56:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "22957d0e76068fcfe62286fce2b8e6e3"}}}
+2018-11-21 11:01:56:http://192.168.89.125:80/;stok=22957d0e76068fcfe62286fce2b8e6e3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:01:56:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:01:56:http://192.168.89.125:80/;stok=22957d0e76068fcfe62286fce2b8e6e3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:01:56:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:07:20:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:07:20:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121110719493417"}}}
+2018-11-21 11:07:20:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"54c590805511c782c8259b3df5ef2eb75c8ff65f","username":"guest","verificationcode":"20181121110719493417"}}}}
+
+2018-11-21 11:07:20:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "93eba6c4d72682d77609a6bdf4a55207"}}}
+2018-11-21 11:07:21:http://192.168.89.125:80/;stok=93eba6c4d72682d77609a6bdf4a55207/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:07:21:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:07:21:http://192.168.89.125:80/;stok=93eba6c4d72682d77609a6bdf4a55207/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:07:21:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:07:38:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:07:38:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121110737717658"}}}
+2018-11-21 11:07:38:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"9ef4d5a4ac68021675bab8e59a69ba18548bad20","username":"guest","verificationcode":"20181121110737717658"}}}}
+
+2018-11-21 11:07:38:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "8df57a110f33ee82bc050e46f5d635c8"}}}
+2018-11-21 11:07:38:http://192.168.89.125:80/;stok=8df57a110f33ee82bc050e46f5d635c8/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:07:38:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:07:38:http://192.168.89.125:80/;stok=8df57a110f33ee82bc050e46f5d635c8/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:07:38:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:07:49:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:07:49:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121110748664965"}}}
+2018-11-21 11:07:49:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"184af7d5459df44049ab96912601a77d37541bc8","username":"guest","verificationcode":"20181121110748664965"}}}}
+
+2018-11-21 11:07:49:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "468feef3c3ad54ed19ad4781dabbf175"}}}
+2018-11-21 11:07:49:http://192.168.89.125:80/;stok=468feef3c3ad54ed19ad4781dabbf175/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:07:49:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:07:49:http://192.168.89.125:80/;stok=468feef3c3ad54ed19ad4781dabbf175/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:07:49:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:11:13:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:11:13:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111112147292"}}}
+2018-11-21 11:11:13:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"48ebe5b13b0219d602aaaea131ca2ea8cd4ba0f3","username":"guest","verificationcode":"20181121111112147292"}}}}
+
+2018-11-21 11:11:13:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "e5666831c22cb81e2f2159697937a58b"}}}
+2018-11-21 11:11:13:http://192.168.89.125:80/;stok=e5666831c22cb81e2f2159697937a58b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:11:13:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:11:13:http://192.168.89.125:80/;stok=e5666831c22cb81e2f2159697937a58b/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:11:13:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:11:29:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:11:29:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111128576115"}}}
+2018-11-21 11:11:29:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"6eebb90fb6f769d8871e1ccefabe778d06ae949b","username":"guest","verificationcode":"20181121111128576115"}}}}
+
+2018-11-21 11:11:29:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "ac63066dd8b72c5a72adeb0f7cd878a1"}}}
+2018-11-21 11:11:29:http://192.168.89.125:80/;stok=ac63066dd8b72c5a72adeb0f7cd878a1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:11:29:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:11:29:http://192.168.89.125:80/;stok=ac63066dd8b72c5a72adeb0f7cd878a1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:11:29:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:11:37:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:11:37:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111136767760"}}}
+2018-11-21 11:11:37:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"7e4678fa1b4bb2992f85faed227ea37eee1c9ea9","username":"guest","verificationcode":"20181121111136767760"}}}}
+
+2018-11-21 11:11:37:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "52c557e4336dc52a1824dcc340eef6c3"}}}
+2018-11-21 11:11:37:http://192.168.89.125:80/;stok=52c557e4336dc52a1824dcc340eef6c3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:11:37:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:11:37:http://192.168.89.125:80/;stok=52c557e4336dc52a1824dcc340eef6c3/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:11:37:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:11:56:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:11:56:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111155260102"}}}
+2018-11-21 11:11:56:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"e0aca95cd66c1bb6f5e3dad939bbc86e5e31d8e1","username":"guest","verificationcode":"20181121111155260102"}}}}
+
+2018-11-21 11:11:56:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "3ab2e773f19043ade3110d1bd06dcc15"}}}
+2018-11-21 11:11:56:http://192.168.89.125:80/;stok=3ab2e773f19043ade3110d1bd06dcc15/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:11:56:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:11:56:http://192.168.89.125:80/;stok=3ab2e773f19043ade3110d1bd06dcc15/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:11:56:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:11:58:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:11:58:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111157502440"}}}
+2018-11-21 11:11:58:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"1d16ae63852a0c560a794939dba172fc210a65cf","username":"guest","verificationcode":"20181121111157502440"}}}}
+
+2018-11-21 11:11:58:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "50b783ff64ab0464055190fe5b06faf2"}}}
+2018-11-21 11:11:58:http://192.168.89.125:80/;stok=50b783ff64ab0464055190fe5b06faf2/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:11:58:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:11:58:http://192.168.89.125:80/;stok=50b783ff64ab0464055190fe5b06faf2/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:11:58:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:13:10:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:13:10:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111309620099"}}}
+2018-11-21 11:13:10:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"923b731f48366a8efeaf37ae22d1f59ef0a60532","username":"guest","verificationcode":"20181121111309620099"}}}}
+
+2018-11-21 11:13:10:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "3a98198b052f2bd2e9b067392a20dd89"}}}
+2018-11-21 11:13:10:http://192.168.89.125:80/;stok=3a98198b052f2bd2e9b067392a20dd89/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:13:10:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:13:10:http://192.168.89.125:80/;stok=3a98198b052f2bd2e9b067392a20dd89/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:13:10:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:13:48:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:13:48:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111347805868"}}}
+2018-11-21 11:13:48:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"685b7fdaf3ace1fdd9151bf7e9b73cdccb147244","username":"guest","verificationcode":"20181121111347805868"}}}}
+
+2018-11-21 11:13:48:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "1f9692c1fe0317572c6eb524bd2c917e"}}}
+2018-11-21 11:13:48:http://192.168.89.125:80/;stok=1f9692c1fe0317572c6eb524bd2c917e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:13:48:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:13:48:http://192.168.89.125:80/;stok=1f9692c1fe0317572c6eb524bd2c917e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:13:48:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:14:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:14:16:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111415890623"}}}
+2018-11-21 11:14:16:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"886bf298cb3fb93056f98f737410eb4d4b9a9073","username":"guest","verificationcode":"20181121111415890623"}}}}
+
+2018-11-21 11:14:16:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "1de7ae63941675f0df48b276ba4e048e"}}}
+2018-11-21 11:14:16:http://192.168.89.125:80/;stok=1de7ae63941675f0df48b276ba4e048e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-11-21 11:14:16:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.22.1", "barcode": "C0Y2L01805030054", "brightness": "255", "brightnessmode": "system", "controllername": "", "controllertype": "9304", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.125", "ipmode": "static", "mac": "02:FF:FF:BF:E1:0D", "outputtype": "LCD", "pid": "50C811344D45594D4110000036A7619F", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.1", "wifisubnetmask": "255.255.255.0"}}}
+2018-11-21 11:14:16:http://192.168.89.125:80/;stok=1de7ae63941675f0df48b276ba4e048e/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:14:16:{"remotefunction": {"name": "userlogout"}}
+2018-11-21 11:14:40:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-11-21 11:14:40:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181121111440763523"}}}
+2018-11-21 11:14:40:http://192.168.89.125:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"edfd4f6cab47e0a131449e0d00e333777e29bec3","username":"guest","verificationcode":"20181121111440763523"}}}}
+
+2018-11-21 11:14:40:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "1f7966acf7b30dbc8be35b043684a42f"}}}
+2018-11-21 11:14:40:http://192.168.89.125:80/;stok=1f7966acf7b30dbc8be35b043684a42f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-11-21 11:14:40:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-11-21 11:14:41:http://192.168.89.125:80/;stok=1f7966acf7b30dbc8be35b043684a42f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-11-21 11:14:41:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:07:21:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:07:21:{"remotefunction": {"error": {"code": 26, "mesg": "HTTP server timeout.timed out"}, "name": ""}}
+2018-12-14 16:07:21:SendSimpleStyle >> GetVerificationCode >> findCode >> null
+2018-12-14 16:07:21:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:07:21:{"remotefunction": {"error": {"code": 12, "mesg": "[Authentication Error] : Access Volation!"}, "name": "userlogout"}}
+2018-12-14 16:07:24:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:07:24:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214160721565672"}}}
+2018-12-14 16:07:24:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"4765a9ff2c701f9b62baeb724d3b4c30e265d30e","username":"guest","verificationcode":"20181214160721565672"}}}}
+
+2018-12-14 16:07:24:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "6190f67d69cda769d1677466a52926da"}}}
+2018-12-14 16:07:24:http://192.168.89.171:80/;stok=6190f67d69cda769d1677466a52926da/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:07:24:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:07:24:http://192.168.89.171:80/;stok=6190f67d69cda769d1677466a52926da/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:07:24:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:08:02:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214160800769170"}}}
+2018-12-14 16:08:02:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"55df4dc9913053aba34b633426d0f6b9983ec228","username":"guest","verificationcode":"20181214160800769170"}}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "45760b87a04675902f6e74d66b6a76e7"}}}
+2018-12-14 16:08:02:http://192.168.89.171:80/;stok=45760b87a04675902f6e74d66b6a76e7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:08:02:http://192.168.89.171:80/;stok=45760b87a04675902f6e74d66b6a76e7/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:08:02:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214160800378851"}}}
+2018-12-14 16:08:02:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"3b073712a9e9466ea88a4d901d16b15e2fba04ef","username":"guest","verificationcode":"20181214160800378851"}}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "346e80d2e740e3da476c5dd39bb7036f"}}}
+2018-12-14 16:08:02:http://192.168.89.171:80/;stok=346e80d2e740e3da476c5dd39bb7036f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-12-14 16:08:02:http://192.168.89.171:80/;stok=346e80d2e740e3da476c5dd39bb7036f/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:08:02:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:17:27:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214161725580827"}}}
+2018-12-14 16:17:27:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"d0a987319642f5a81f7b5f6f7d8e4eb41acd33a7","username":"guest","verificationcode":"20181214161725580827"}}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "b221213fb7289a2ce24bbc45382614a2"}}}
+2018-12-14 16:17:27:http://192.168.89.171:80/;stok=b221213fb7289a2ce24bbc45382614a2/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:17:27:http://192.168.89.171:80/;stok=b221213fb7289a2ce24bbc45382614a2/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:17:27:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214161725246343"}}}
+2018-12-14 16:17:27:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"81f8964313f4c829f6360bc0d7e2fb524ee80506","username":"guest","verificationcode":"20181214161725246343"}}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "d1aa15addb24b0ec064303e23b3734f1"}}}
+2018-12-14 16:17:27:http://192.168.89.171:80/;stok=d1aa15addb24b0ec064303e23b3734f1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-12-14 16:17:27:http://192.168.89.171:80/;stok=d1aa15addb24b0ec064303e23b3734f1/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:17:27:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:17:41:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:17:41:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214161738699400"}}}
+2018-12-14 16:17:41:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"90cba37293eae4bd3ddb6511294e3a85d8e75484","username":"guest","verificationcode":"20181214161738699400"}}}}
+
+2018-12-14 16:17:41:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "b09095a374d27357ed8a0c5cd9dd5456"}}}
+2018-12-14 16:17:41:http://192.168.89.171:80/;stok=b09095a374d27357ed8a0c5cd9dd5456/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:17:41:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:17:41:http://192.168.89.171:80/;stok=b09095a374d27357ed8a0c5cd9dd5456/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:17:41:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:17:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214161749742304"}}}
+2018-12-14 16:17:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"7b420ea2be1717ff2a392aaa287535388f5e6ba4","username":"guest","verificationcode":"20181214161749742304"}}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "3da325108d05c3e598c7286c86a98378"}}}
+2018-12-14 16:17:52:http://192.168.89.171:80/;stok=3da325108d05c3e598c7286c86a98378/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:17:52:http://192.168.89.171:80/;stok=3da325108d05c3e598c7286c86a98378/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:17:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214161750218297"}}}
+2018-12-14 16:17:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"1f072a0a98d60ae151cfdeb8c9052529c69e64b3","username":"guest","verificationcode":"20181214161750218297"}}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "7607df3f5572642dc5198de5c66b4c53"}}}
+2018-12-14 16:17:52:http://192.168.89.171:80/;stok=7607df3f5572642dc5198de5c66b4c53/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-12-14 16:17:52:http://192.168.89.171:80/;stok=7607df3f5572642dc5198de5c66b4c53/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:17:52:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:20:50:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:20:50:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162048514356"}}}
+2018-12-14 16:20:50:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"51751b7f02433a0c1c9045e64e9454d07a85c42a","username":"guest","verificationcode":"20181214162048514356"}}}}
+
+2018-12-14 16:20:50:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "d3f040f18298b126a28d0d9c4226e924"}}}
+2018-12-14 16:20:50:http://192.168.89.171:80/;stok=d3f040f18298b126a28d0d9c4226e924/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"brightness":"","brightnessmode":"","controllername":"","customscreenstatus":"","programlockedstatus":"","screenlockedstatus":"","screenonoffstatus":"","volume":""}}}}
+
+2018-12-14 16:20:50:{"remotefunction": {"name": "getproperty", "output": {"brightness": "255", "brightnessmode": "custom", "controllername": "", "customscreenstatus": "", "programlockedstatus": "0", "screenlockedstatus": "0", "screenonoffstatus": "1", "volume": "100"}}}
+2018-12-14 16:20:50:http://192.168.89.171:80/;stok=d3f040f18298b126a28d0d9c4226e924/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetState","input":{"rtctime":""}}}}
+
+2018-12-14 16:20:50:{"remotefunction": {"name": "getstate", "output": {"rtctime": "2018-12-14 16:20:48"}}}
+2018-12-14 16:20:50:http://192.168.89.171:80/;stok=d3f040f18298b126a28d0d9c4226e924/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:20:50:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:20:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:20:52:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162049513763"}}}
+2018-12-14 16:20:52:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"f7b49cef46e7a9c63714ff4f811b9cd386b37359","username":"guest","verificationcode":"20181214162049513763"}}}}
+
+2018-12-14 16:20:52:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "10ef59f58264a8c588750d8efb51246a"}}}
+2018-12-14 16:20:52:http://192.168.89.171:80/;stok=10ef59f58264a8c588750d8efb51246a/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"ScreenOnOff","input":{"screenonoffstatus":"0"}}}}
+
+2018-12-14 16:20:52:{"remotefunction": {"name": "screenonoff"}}
+2018-12-14 16:20:52:http://192.168.89.171:80/;stok=10ef59f58264a8c588750d8efb51246a/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:20:52:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:20:53:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:20:53:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162051670535"}}}
+2018-12-14 16:20:54:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"4464b960e404076e111f727abf878f2a8fcadbb1","username":"guest","verificationcode":"20181214162051670535"}}}}
+
+2018-12-14 16:20:54:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "f1d1064f5d9def868ac9ace63e340c76"}}}
+2018-12-14 16:20:54:http://192.168.89.171:80/;stok=f1d1064f5d9def868ac9ace63e340c76/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"ScreenOnOff","input":{"screenonoffstatus":"1"}}}}
+
+2018-12-14 16:20:54:{"remotefunction": {"name": "screenonoff"}}
+2018-12-14 16:20:54:http://192.168.89.171:80/;stok=f1d1064f5d9def868ac9ace63e340c76/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:20:54:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:21:01:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:21:01:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162059594504"}}}
+2018-12-14 16:21:01:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"597435d13ddfcab2187bf1701c128d32cff44aa2","username":"guest","verificationcode":"20181214162059594504"}}}}
+
+2018-12-14 16:21:01:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "00143d571ceef7bc5d0fad0baff19ef5"}}}
+2018-12-14 16:21:02:http://192.168.89.171:80/;stok=00143d571ceef7bc5d0fad0baff19ef5/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:21:02:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:21:02:http://192.168.89.171:80/;stok=00143d571ceef7bc5d0fad0baff19ef5/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:21:02:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:21:30:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162128563086"}}}
+2018-12-14 16:21:30:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"e1ff91bbfedfce0a5664c24243c9b2c5c8fd77a9","username":"guest","verificationcode":"20181214162128563086"}}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "8db82345547cad525bda8175acff9e08"}}}
+2018-12-14 16:21:30:http://192.168.89.171:80/;stok=8db82345547cad525bda8175acff9e08/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetProperty","input":{"apipaddress":"","barcode":"","brightness":"","brightnessmode":"","controllername":"","controllertype":"","dnsserver":"","foldcount":"","foldheight":"","foldtype":"","foldwidth":"","gateway":"","height":"","httpserverport":"","ip":"","ipmode":"","mac":"","outputtype":"","pid":"","storagemedia":"","subnetmask":"","volume":"","width":"","wificonnectmode":"","wifigateway":"","wifiipaddress":"","wifisubnetmask":""}}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "getproperty", "output": {"apipaddress": "192.168.2.199", "barcode": "C0Y3001805190008", "brightness": "255", "brightnessmode": "custom", "controllername": "", "controllertype": "9048", "dnsserver": "192.168.89.1", "foldcount": "1", "foldheight": "[]", "foldtype": "0", "foldwidth": "[]", "gateway": "192.168.89.1", "height": "96", "httpserverport": "80", "ip": "192.168.89.171", "ipmode": "static", "mac": "02:FF:FF:BF:CE:D5", "outputtype": "LCD", "pid": "50C811344D45594D41100000197F966A", "storagemedia": "emmc", "subnetmask": "255.255.255.0", "volume": "100", "width": "128", "wificonnectmode": "static", "wifigateway": "192.168.11.1", "wifiipaddress": "192.168.11.101", "wifisubnetmask": "255.255.255.0"}}}
+2018-12-14 16:21:30:http://192.168.89.171:80/;stok=8db82345547cad525bda8175acff9e08/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "userlogout"}}
+2018-12-14 16:21:30:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"GetVerificationCode"}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "getverificationcode", "output": {"verificationcode": "20181214162128789836"}}}
+2018-12-14 16:21:30:http://192.168.89.171:80/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogin","input":{"password":"7f8591d67bc53231e6ba25e90fa73371c18c8203","username":"guest","verificationcode":"20181214162128789836"}}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "userlogin", "output": {"sessionID": "ef602cd51473ae408f6005d34ec0e8da"}}}
+2018-12-14 16:21:30:http://192.168.89.171:80/;stok=ef602cd51473ae408f6005d34ec0e8da/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"SetStorageMedia","input":{"storagemedia":""}}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"error": {"code": 23, "mesg": "Storage Media  not exists"}, "name": "setstoragemedia"}}
+2018-12-14 16:21:30:http://192.168.89.171:80/;stok=ef602cd51473ae408f6005d34ec0e8da/post:{"protocol":{"name":"YQ-COM2","version":"1.0","remotefunction":{"name":"UserLogout"}}}
+
+2018-12-14 16:21:30:{"remotefunction": {"name": "userlogout"}}

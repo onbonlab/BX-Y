@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{076DF0F7-4F26-41CD-B279-3CF1924A5833}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ysdk_CSharp</RootNamespace>
+    <AssemblyName>Ysdk_CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\lib\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bright.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bright.designer.cs">
+      <DependentUpon>Bright.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capture.Designer.cs">
+      <DependentUpon>Capture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClockAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClockAreas.Designer.cs">
+      <DependentUpon>ClockAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CounterArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CounterArea.Designer.cs">
+      <DependentUpon>CounterArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DynamicFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DynamicFile.Designer.cs">
+      <DependentUpon>DynamicFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DynamicList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DynamicList.Designer.cs">
+      <DependentUpon>DynamicList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DynamicStr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DynamicStr.Designer.cs">
+      <DependentUpon>DynamicStr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirmWarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmWarea.designer.cs">
+      <DependentUpon>FirmWarea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImgArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImgArea.Designer.cs">
+      <DependentUpon>ImgArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LedYNetSdk.cs" />
+    <Compile Include="LedYSDK.cs" />
+    <Compile Include="LunArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LunArea.Designer.cs">
+      <DependentUpon>LunArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnOff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnOff.Designer.cs">
+      <DependentUpon>OnOff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgramArea.Designer.cs">
+      <DependentUpon>ProgramArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProgramList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgramList.Designer.cs">
+      <DependentUpon>ProgramList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screen.Designer.cs">
+      <DependentUpon>Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Server.Designer.cs">
+      <DependentUpon>Server.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Text.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Text.Designer.cs">
+      <DependentUpon>Text.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeArea.Designer.cs">
+      <DependentUpon>TimeArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variable.cs" />
+    <Compile Include="VidioArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VidioArea.Designer.cs">
+      <DependentUpon>VidioArea.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bright.resx">
+      <DependentUpon>Bright.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capture.resx">
+      <DependentUpon>Capture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClockAreas.resx">
+      <DependentUpon>ClockAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CounterArea.resx">
+      <DependentUpon>CounterArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DynamicFile.resx">
+      <DependentUpon>DynamicFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DynamicList.resx">
+      <DependentUpon>DynamicList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DynamicStr.resx">
+      <DependentUpon>DynamicStr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirmWarea.resx">
+      <DependentUpon>FirmWarea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgArea.resx">
+      <DependentUpon>ImgArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LunArea.resx">
+      <DependentUpon>LunArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnOff.resx">
+      <DependentUpon>OnOff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramArea.resx">
+      <DependentUpon>ProgramArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramList.resx">
+      <DependentUpon>ProgramList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Screen.resx">
+      <DependentUpon>Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Server.resx">
+      <DependentUpon>Server.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Text.resx">
+      <DependentUpon>Text.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeArea.resx">
+      <DependentUpon>TimeArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VidioArea.resx">
+      <DependentUpon>VidioArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
