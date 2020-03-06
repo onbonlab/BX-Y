@@ -31,7 +31,19 @@
 
 **说明：** 初始化动态库 
 
-**函数：** int _CALL_STD init_sdk(); 
+**函数：** 
+
+```c++
+int _CALL_STD init_sdk(); 
+```
+
+```C#
+public static extern int init_sdk();
+```
+
+```Delphi
+function init_sdk():integer; stdcall external 'YQNetCom';
+```
 
 #### 1.2 释放动态库 release_sdk
 **返回值：**成功返回0；失败返回错误号 
@@ -40,7 +52,19 @@
 
 **说明：** 释放动态库 
 
-**函数：** int _CALL_STD release_sdk();_
+**函数：** 
+
+```c++
+int _CALL_STD release_sdk();
+```
+
+```C#
+public static extern int release_sdk();
+```
+
+```Delphi
+ function release_sdk(): integer; stdcall external 'YQNetCom';
+```
 
 ###  2.局域⽹模式获取控制卡API
 
@@ -56,7 +80,19 @@
 
  **说明：** 固定IP下搜索控制卡 
 
- **函数：** int _CALL_STD search_card(BYTE* cards, int* card_count); 
+ **函数：**
+
+```c++
+ int _CALL_STD search_card(BYTE* cards, int* card_count); 
+```
+
+```C#
+public static extern int search_card(IntPtr datas, ref int data_count); 
+```
+
+```Delphi
+
+```
 
 ### 3.服务器模式获取控制卡API 
 
@@ -72,7 +108,19 @@
 
  **说明：** 启动服务器 
 
-**函数：** int _CALL_STD Start_Native_Server(int port); 
+**函数：**
+
+```c++
+ int _CALL_STD Start_Native_Server(int port); 
+```
+
+```C#
+public static extern int Start_Native_Server(ushort port);
+```
+
+```Delphi
+
+```
 
 #### 3.2 停⽌服务器 Stop_Server
 
@@ -82,7 +130,19 @@
 
 **说明：** 停⽌服务器 
 
-**函数：**int _CALL_STD Stop_Server();
+**函数：**
+
+```c++
+int _CALL_STD Stop_Server();
+```
+
+```C#
+public static extern int Stop_Server();
+```
+
+```Delphi
+
+```
 
 #### 3.3 搜索控制卡 Get_CardList
 
@@ -97,7 +157,19 @@
 
 **说明：** 服务器模式搜索控制卡
 
-**函数：**int _CALL_STD Get_CardList(BYTE* cards, int* card_count);
+**函数：**
+
+```c++
+int _CALL_STD Get_CardList(BYTE* cards, int* card_count);
+```
+
+```C#
+public static extern int Get_CardList(byte[] datas, ref int data_count);
+```
+
+```Delphi
+
+```
 
 #### 3.4 获取控制卡使⽤端⼝ Get_Port_Barcode
 **返回值：**成功返回控制卡使⽤端⼝ 
@@ -110,7 +182,19 @@
 
 **说明：** 服务器模式，根据条码获取控制卡使⽤端⼝ 
 
-**函数：**int CALL_STD Get_Port_Barcode(TEXT_CHAR* Barcode); 
+**函数：**
+
+```c++
+int CALL_STD Get_Port_Barcode(TEXT_CHAR* Barcode); 
+```
+
+```C#
+public static extern int Get_Port_Barcode(string barcode);
+```
+
+```Delphi
+
+```
 
 #### 3.5 获取控制卡使⽤端⼝ Get_Port_Pid
 **返回值：**成功返回控制卡使⽤端⼝ 
@@ -123,7 +207,19 @@
 
 **说明：** 服务器模式，根据PID码获取控制卡使⽤端⼝
 
-**函数：**int CALL_STD Get_Port_Pid(TEXT_CHAR* pid); 
+**函数：**
+
+```c++
+int CALL_STD Get_Port_Pid(TEXT_CHAR* pid);
+```
+
+```C#
+public static extern int Get_Port_Pid(string pid);
+```
+
+```Delphi
+
+```
 
 ###  4.节⽬API
 
@@ -140,7 +236,19 @@
 
 **说明：** 创建节⽬清单
 
-**函数：**unsigned long _CALL_STD create_playlist(int w, int h, int device_type); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_playlist(int w, int h, int device_type);
+```
+
+```C#
+public static extern IntPtr create_playlist(int w, int h, int device_type);
+```
+
+```Delphi
+function create_playlist(w,h,device_type:integer): LongWord ; stdcall external 'YQNetCom';
+```
 
 #### 4.2 创建节⽬ create_program
 **返回值：**成功返回节⽬句柄；失败返回错误号 
@@ -154,7 +262,19 @@
 
 **说明：** 创建节⽬
 
-**函数：**unsigned long CALL_STD create_program(TEXT_CHAR* name, _TEXT_CHAR* bg_color); 
+**函数：**
+
+```c++
+unsigned long CALL_STD create_program(TEXT_CHAR* name, _TEXT_CHAR* bg_color); 
+```
+
+```C#
+public static extern IntPtr create_program(string name,string bg_color);
+```
+
+```Delphi
+function create_program(name,bg_color:WideString): LongWord; stdcall  external 'YQNetCom'
+```
 
 #### 4.3 节⽬添加到节⽬单 add_program_in_playlist
 **返回值：**成功返回0；失败返回错误号 
@@ -175,7 +295,19 @@
 
 **说明：** 节⽬添加到节⽬单
 
-**函数：**int _CALL_STD add_program_in_playlist(unsigned long playlist, unsigned long program, int play_mode, int play_time, _TEXT_CHAR* aging_start_time, _TEXT_CHAR* aging_end_time, _TEXT_CHAR* period_ontime, _TEXT_CHAR* period_offtime, int play_week); 
+**函数：**
+
+```c++
+int _CALL_STD add_program_in_playlist(unsigned long playlist, unsigned long program, int play_mode, int play_time, _TEXT_CHAR* aging_start_time, _TEXT_CHAR* aging_end_time, _TEXT_CHAR* period_ontime, _TEXT_CHAR* period_offtime, int play_week); 
+```
+
+```C#
+public static extern int add_program_in_playlist(IntPtr playlist, IntPtr program, int play_mode, int play_time, string aging_start_time, string aging_end_time, string period_ontime, string period_offtime, int play_week);
+```
+
+```Delphi
+function add_program_in_playlist(playlist,program_:longword;play_mode,play_time:integer;aging_start_time,aging_end_time,period_ontime,period_offtime:WideString;play_week:integer): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.4 发送节⽬单 send_program
 **返回值：**成功返回0；失败返回错误号 
@@ -196,7 +328,19 @@
 
 **说明：** 发送节⽬单
 
-**函数：**int _CALL_STD send_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* tmp_path, unsigned long playlist, int send_style, long long * free_size, long long * total_size);
+**函数：**
+
+```c++
+int _CALL_STD send_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* tmp_path, unsigned long playlist, int send_style, long long * free_size, long long * total_size);
+```
+
+```C#
+public static extern int send_program(byte[] ip, ushort port, string user_name, string user_pwd, string tmp_path, IntPtr playlist, int send_style, ref Int64 free_size, ref Int64 total_size);
+```
+
+```Delphi
+function send_program(ip:pchar;port:longword;user_name,user_pwd,tmp_path:WideString;playlist:longword;send_style:integer;var free_size,total_size:int64): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.5 销毁节⽬单 delete_playlist
 **返回值：**成功返回0；失败返回错误号 
@@ -209,7 +353,19 @@
 
 **说明：** 销毁节⽬单
 
-**函数：**void _CALL_STD delete_playlist(unsigned long playlist);
+**函数：**
+
+```c++
+void _CALL_STD delete_playlist(unsigned long playlist);
+```
+
+```C#
+public static extern void delete_playlist(IntPtr playlist);
+```
+
+```Delphi
+function delete_playlist(playlist:longword): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.6 取消发送节⽬ cancel_send_program
 **返回值：**成功返回0；失败返回错误号 
@@ -222,7 +378,19 @@
 
 **说明：** 取消发送节⽬单
 
-**函数：**void _CALL_STD cancel_send_program(unsigned long playlist);
+**函数：**
+
+```c++
+void _CALL_STD cancel_send_program(unsigned long playlist);
+```
+
+```C#
+public static extern void cancel_send_program(IntPtr playlist);
+```
+
+```Delphi
+function cancel_send_program(playlist:longword): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.7 创建图⽂分区 create_pic
 **返回值：**成功返回分区句柄 
@@ -231,7 +399,19 @@
 
 **说明：** 创建图⽂分区 
 
-**函数：**unsigned long _CALL_STD create_pic(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_pic(); 
+```
+
+```C#
+public static extern IntPtr create_pic();
+```
+
+```Delphi
+function create_pic(): LongWord; stdcall  external 'YQNetCom';
+```
 
 #### 4.8 图⽂分区添加图片 add_pic_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -248,7 +428,19 @@
 
 **说明：** 图⽂分区添加显示图片
 
-**函数：**int _CALL_STD add_pic_unit(unsigned long pic_area, int stay_time, int display_effects, int display_speed, _TEXT_CHAR* src_path);
+**函数：**
+
+```c++
+int _CALL_STD add_pic_unit(unsigned long pic_area, int stay_time, int display_effects, int display_speed, _TEXT_CHAR* src_path);
+```
+
+```C#
+public static extern int add_pic_unit(IntPtr area_tree, int stay_time, int display_effects, int display_speed, string path);
+```
+
+```Delphi
+function add_pic_unit(pic_area:Longword;stay_time,display_effects,display_speed:integer;src_path:WideString): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.9 图⽂分区添加到节⽬ add_pic
 **返回值：**成功返回0；失败返回错误号 
@@ -267,7 +459,19 @@
 
 **说明：** 图⽂分区添加到节⽬
 
-**函数：**int _CALL_STD add_pic(unsigned long program, unsigned long pic_area, int x, int y, int w, int h, int transparency); 
+**函数：**
+
+```c++
+int _CALL_STD add_pic(unsigned long program, unsigned long pic_area, int x, int y, int w, int h, int transparency); 
+```
+
+```C#
+public static extern int add_pic(IntPtr tree, IntPtr area_tree, int x, int y, int w, int h, int transparency);
+```
+
+```Delphi
+function add_pic(program_,pic_area:longword;x,y,w,h,transparency:integer): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.10 创建视频分区  create_video
 **返回值：**成功返回句柄 
@@ -276,7 +480,19 @@
 
 **说明：** 创建视频分区 
 
-**函数：**unsigned long _CALL_STD create_video();
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_video();
+```
+
+```C#
+public static extern IntPtr create_video();
+```
+
+```Delphi
+function create_video(): LongWord; stdcall external 'YQNetCom'; 
+```
 
 #### 4.11 添加视频⽂件 add_video_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -295,7 +511,19 @@
 
 **说明：** 添加视频⽂件
 
-**函数：**int _CALL_STD add_video_unit(unsigned long video_area, int volume, int scale_mode, int source, int play_time, _TEXT_CHAR* src_path, _TEXT_CHAR* crop_type);
+**函数：**
+
+```c++
+int _CALL_STD add_video_unit(unsigned long video_area, int volume, int scale_mode, int source, int play_time, _TEXT_CHAR* src_path, _TEXT_CHAR* crop_type);
+```
+
+```C#
+public static extern int add_video_unit(IntPtr area_tree, int volume, int scale_mode, int source, int play_time, string path, string crop_type);
+```
+
+```Delphi
+function add_video_unit(video_area:longword;volume,scale_mode,source,play_time:integer;src_path,crop_type:WideString): integer; stdcall external 'YQNetCom'; 
+```
 
 #### 4.12 节⽬添加视频分区 add_video
 **返回值：**成功返回0；失败返回错误号 
@@ -318,7 +546,19 @@
 
 **说明：** 节⽬添加视频分区
 
-**函数：**int _CALL_STD add_video(unsigned long program, unsigned long video_area, int x, int y, int w, int h, int volume_mode, int video_type, int ratation_mode, _TEXT_CHAR* clone_str, _TEXT_CHAR* crop_type);
+**函数：**
+
+```c++
+int _CALL_STD add_video(unsigned long program, unsigned long video_area, int x, int y, int w, int h, int volume_mode, int video_type, int ratation_mode, _TEXT_CHAR* clone_str, _TEXT_CHAR* crop_type);
+```
+
+```C#
+public static extern int add_video(IntPtr tree, IntPtr area_tree, int x, int y, int w, int h, int volume_mode, int video_type, int ratation_mode, string clone_str, string crop_type);
+```
+
+```Delphi
+function add_video(program_,video_area:longword; x, y, w, h, volume_mode, video_type,ratation_mode:integer;clone_str,crop_type:WideString): integer; stdcall external 'YQNetCom'; 
+```
 
 #### 4.13 创建时间分区 create_time
 **返回值：**成功返回句柄 
@@ -327,7 +567,19 @@
 
 **说明：** 创建时间分区 
 
-**函数：**unsigned long _CALL_STD create_time(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_time(); 
+```
+
+```C#
+public static extern IntPtr create_time();
+```
+
+```Delphi
+function create_time(): LongWord; stdcall  external 'YQNetCom'; 
+```
 
 #### 4.14 添加时间数据 add_time_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -347,7 +599,19 @@
 
 **说明：** 添加时间数据
 
-**函数：**int _CALL_STD add_time_unit(unsigned long time_area, _TEXT_CHAR* content, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int x, int y, _TEXT_CHAR* font_attributes);
+**函数：**
+
+```c++
+int _CALL_STD add_time_unit(unsigned long time_area, _TEXT_CHAR* content, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int x, int y, _TEXT_CHAR* font_attributes);
+```
+
+```C#
+public static extern int add_time_unit(IntPtr time_tree, string content, string font_color, string font_name, int font_size, int x, int y, string font_attributes);
+```
+
+```Delphi
+function add_time_unit(time_area:Longword;content,font_color,font_namestay_time:WideString;font_size,x,y:integer;font_attributes:WideString): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.15 节⽬添加时间分区 add_time
 **返回值：**成功返回0；失败返回错误号 
@@ -369,7 +633,19 @@
 
 **说明：** 节⽬添加时间分区
 
-**函数：**int _CALL_STD add_time(unsigned long program, unsigned long time_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te);
+**函数：**
+
+```c++
+int _CALL_STD add_time(unsigned long program, unsigned long time_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te);
+```
+
+```C#
+public static extern int add_time(IntPtr tree, IntPtr area_tree, int x, int y, int w, int h, int transparency, string bg_color, string time_equation, string positive_te);
+```
+
+```Delphi
+function add_time(program_,time_area:longword;x,y,w,h,transparency:integer;bg_color,time_equation,positive_te:WideString): integer; stdcall external 'YQNetCom';
+```
 
 #### 4.16 创建表盘分区 create_clock
 
@@ -379,7 +655,19 @@
 
 **说明：** 创建表盘分区 
 
-**函数：**unsigned long _CALL_STD create_clock(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_clock(); 
+```
+
+```C#
+public static extern IntPtr create_clock();
+```
+
+```Delphi
+
+```
 
 #### 4.17 节⽬添加表盘分区 add_clock
 **返回值：**成功返回0；失败返回错误号 
@@ -404,7 +692,19 @@
 
 **说明：** 节⽬添加表盘分区
 
-**函数：**int _CALL_STD add_clock(unsigned long program, unsigned long clock_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te, _TEXT_CHAR* hour_color, _TEXT_CHAR* minute_color, _TEXT_CHAR* second_color, _TEXT_CHAR* bg_image);
+**函数：**
+
+```c++
+int _CALL_STD add_clock(unsigned long program, unsigned long clock_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te, _TEXT_CHAR* hour_color, _TEXT_CHAR* minute_color, _TEXT_CHAR* second_color, _TEXT_CHAR* bg_image);
+```
+
+```C#
+public static extern int add_clock(IntPtr tree, IntPtr clock_area, int x, int y, int w, int h, int transparency, string time_equation, string positive_te, string hour_color, string minute_color, string second_color, string bg_image);
+```
+
+```Delphi
+
+```
 
 #### 4.18 创建农历分区  create_calendar
 **返回值：**成功返回句柄 
@@ -413,7 +713,19 @@
 
 **说明：**创建农历分区 
 
-**函数：**unsigned long _CALL_STD create_calendar();
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_calendar();
+```
+
+```C#
+public static extern IntPtr create_calendar();
+```
+
+```Delphi
+
+```
 
 #### 4.19 添加农历信息 add_calendar_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -434,7 +746,19 @@
 
 **说明：** 添加农历信息
 
-**函数：**int _CALL_STD add_calendar_unit(unsigned long calendar_area, _TEXT_CHAR* mode, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int x, int y, _TEXT_CHAR* font_attributes, _TEXT_CHAR* text_content);
+**函数：**
+
+```c++
+int _CALL_STD add_calendar_unit(unsigned long calendar_area, _TEXT_CHAR* mode, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int x, int y, _TEXT_CHAR* font_attributes, _TEXT_CHAR* text_content);
+```
+
+```C#
+public static extern int add_calendar_unit(IntPtr calendar_tree, string mode, string font_color, string font_name, int font_size, int x, int y, string font_attributes, string text_content);
+```
+
+```Delphi
+
+```
 
 #### 4.20 节⽬添加农历分区 add_calendar
 **返回值：**成功返回0；失败返回错误号 
@@ -456,7 +780,19 @@
 
 **说明：** 节⽬添加农历分区 
 
-**函数：**int _CALL_STD add_calendar(unsigned long program, unsigned long calendar_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te);
+**函数：**
+
+```c++
+int _CALL_STD add_calendar(unsigned long program, unsigned long calendar_area, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te);
+```
+
+```C#
+public static extern int add_calendar(IntPtr tree, IntPtr area_tree, int x, int y, int w, int h, int transparency, string bg_color, string time_equation, string positive_te);
+```
+
+```Delphi
+
+```
 
 #### 4.21 节⽬添加计时分区 add_count
 **返回值：**成功返回0；失败返回错误号 
@@ -487,7 +823,19 @@
 
 **说明：** 节⽬添加计时分区
 
-**函数：**int _CALL_STD add_count(unsigned long program, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te, _TEXT_CHAR* target_date, _TEXT_CHAR* target_time, _TEXT_CHAR* content, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int content_x, int content_y, _TEXT_CHAR* font_attributes, _TEXT_CHAR* add_enable);
+**函数：**
+
+```c++
+int _CALL_STD add_count(unsigned long program, int x, int y, int w, int h, int transparency, _TEXT_CHAR* bg_color, _TEXT_CHAR* time_equation, _TEXT_CHAR* positive_te, _TEXT_CHAR* target_date, _TEXT_CHAR* target_time, _TEXT_CHAR* content, _TEXT_CHAR* font_color, _TEXT_CHAR* font_name, int font_size, int content_x, int content_y, _TEXT_CHAR* font_attributes, _TEXT_CHAR* add_enable);
+```
+
+```C#
+public static extern int add_count(IntPtr tree, int x, int y, int w, int h, int transparency, string bg_color, string time_equation, string positive_te, string target_date, string target_time, string content, string font_color, string font_name, int font_size, int content_x, int content_y, string font_attributes, string add_enable);
+```
+
+```Delphi
+
+```
 
 #### 4.22 清除所有节目 clear_all_program
 
@@ -504,7 +852,19 @@
 
 **说明：** 清除所有节目
 
-**函数：**unsigned long _CALL_STD clear_all_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+**函数：**
+
+```c++
+unsigned long _CALL_STD clear_all_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+```
+
+```C#
+public static extern int clear_all_program(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+
+```
 
 #### 4.23 停止播放节目 stop_play_program
 
@@ -521,7 +881,19 @@
 
 **说明：** 停止播放节目
 
-**函数：**unsigned long _CALL_STD stop_play_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+**函数：**
+
+```c++
+unsigned long _CALL_STD stop_play_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+```
+
+```C#
+public static extern int stop_play_program(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+
+```
 
 #### 4.24 创建字幕分区 create_text
 
@@ -531,7 +903,19 @@
 
 **说明：** 创建字幕分区 
 
-**函数：**unsigned long _CALL_STD create_text(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_text(); 
+```
+
+```C#
+public static extern IntPtr create_text();
+```
+
+```Delphi
+
+```
 
 #### 4.25 字幕分区添加图片 add_text_unit_img
 
@@ -549,7 +933,19 @@
 
 **说明：** 字幕分区添加显示图片
 
-**函数：**int _CALL_STD add_text_unit_img(unsigned long text_area, int stay_time, int display_speed, int last_move_width, _TEXT_CHAR* src_path);
+**函数：**
+
+```c++
+int _CALL_STD add_text_unit_img(unsigned long text_area, int stay_time, int display_speed, int last_move_width, _TEXT_CHAR* src_path);
+```
+
+```C#
+public static extern int add_text_unit_img(IntPtr area_tree, int stay_time, int display_speed, int last_move_width, string path);
+```
+
+```Delphi
+
+```
 
 #### 4.26 字幕分区添加图片 add_text_unit_text
 
@@ -572,7 +968,19 @@
 
 **说明：** 字幕分区添加显示图片
 
-**函数：**int _CALL_STD add_text_unit_text(unsigned long text_area, int stay_time, int display_speed, _TEXT_CHAR* font_name, int font_size, _TEXT_CHAR* font_attributes, _TEXT_CHAR* font_alignment, _TEXT_CHAR* font_color, _TEXT_CHAR* bg_color, _TEXT_CHAR* content);
+**函数：**
+
+```c++
+int _CALL_STD add_text_unit_text(unsigned long text_area, int stay_time, int display_speed, _TEXT_CHAR* font_name, int font_size, _TEXT_CHAR* font_attributes, _TEXT_CHAR* font_alignment, _TEXT_CHAR* font_color, _TEXT_CHAR* bg_color, _TEXT_CHAR* content);
+```
+
+```C#
+public static extern int add_text_unit_text(IntPtr area_tree, int stay_time, int display_speed, string font_name, int font_size, string font_attributes, string font_alignment, string font_color, string bg_color, string content);
+```
+
+```Delphi
+
+```
 
 #### 4.9 字幕分区添加到节⽬ add_text
 
@@ -594,7 +1002,19 @@
 
 **说明：** 字幕分区添加到节⽬
 
-**函数：**int _CALL_STD add_text(unsigned long program, unsigned long text_area, int x, int y, int w, int h, int transparency, int display_effects, int unit_type);
+**函数：**
+
+```c++
+int _CALL_STD add_text(unsigned long program, unsigned long text_area, int x, int y, int w, int h, int transparency, int display_effects, int unit_type);
+```
+
+```C#
+public static extern int add_text(IntPtr tree, IntPtr area_tree, int x, int y, int w, int h, int transparency, int display_effects, int unit_type);
+```
+
+```Delphi
+
+```
 
 ### 5.动态区API
 
@@ -605,7 +1025,19 @@
 
 **说明：**创建动态区分区
 
-**函数：**unsigned long _CALL_STD create_dynamic(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_dynamic(); 
+```
+
+```C#
+public static extern IntPtr create_dynamic();
+```
+
+```Delphi
+function create_dynamic(): longword;stdcall external 'YQNetCom';
+```
 
 #### 5.2 添加动态区⽂件 add_dynamic_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -634,7 +1066,19 @@
 
 **说明：** 添加动态区⽂件
 
-**函数：**int CALL_STD add_dynamic_unit(unsigned long dynamic_area, int dynamic_type, int display_effects, int display_speed, int stay_time,TEXT_CHAR* file_path, int gif_flag, _TEXT_CHAR* bg_color, int font_size, _TEXT_CHAR* font_name, _TEXT_CHAR* font_color, _TEXT_CHAR* font_attributes, _TEXT_CHAR* align_h, _TEXT_CHAR* align_v, int volumn, int scale_mode, int rolation_mode);
+**函数：**
+
+```c++
+int CALL_STD add_dynamic_unit(unsigned long dynamic_area, int dynamic_type, int display_effects, int display_speed, int stay_time,TEXT_CHAR* file_path, int gif_flag, _TEXT_CHAR* bg_color, int font_size, _TEXT_CHAR* font_name, _TEXT_CHAR* font_color, _TEXT_CHAR* font_attributes, _TEXT_CHAR* align_h, _TEXT_CHAR* align_v, int volumn, int scale_mode, int rolation_mode);
+```
+
+```C#
+public static extern int add_dynamic_unit(IntPtr dynamic_area, int dynamic_type, int display_effects, int display_speed, int stay_time, string file_path, int gif_flag, string bg_color, int font_size, string font_name, string font_color, string font_attributes, string align_h, string align_v, int volumn, int scale_mode, int rolation_mode);
+```
+
+```Delphi
+function add_dynamic_unit(dynamic_area: longword; dynamic_type, display_effects, display_speed, stay_time: integer; file_path: WideString; gif_flag: integer; bg_color: pwidechar; font_size: integer; font_name, font_color, font_attributes, align_h, align_v: pwidechar; volumn, scale_mode, rolation_mode: integer): integer;stdcall external 'YQNetCom';
+```
 
 #### 5.3 节⽬添加动态分区 add_dynamic
 **返回值：**成功返回0；失败返回错误号 
@@ -657,7 +1101,19 @@
 
 **说明：** 节⽬添加动态分区
 
-**函数：**int _CALL_STD add_dynamic(unsigned long program, unsigned long dynamic_area, int dynamic_id, int x, int y, int w, int h, int relative_program, int run_mode, _TEXT_CHAR* update_frequency, int transparency);
+**函数：**
+
+```c++
+int _CALL_STD add_dynamic(unsigned long program, unsigned long dynamic_area, int dynamic_id, int x, int y, int w, int h, int relative_program, int run_mode, _TEXT_CHAR* update_frequency, int transparency);
+```
+
+```C#
+public static extern int add_dynamic(IntPtr tree, IntPtr area_tree, int dynamic_id, int x, int y, int w, int h, string relative_program, int run_mode, string update_frequency, int transparency);
+```
+
+```Delphi
+function add_dynamic(tree,area_tree: longword; dynamic_id, x, y, w, h, relative_program, run_mode: integer; update_frequency: pwidechar; transparency: integer): integer;stdcall external 
+```
 
 #### 5.4 销毁动态分区句柄 delete_dynamic
 **返回值：**成功返回0；失败返回错误号 
@@ -670,7 +1126,19 @@
 
 **说明：** 销毁动态分区句柄
 
-**函数：**void _CALL_STD delete_dynamic(unsigned long dynamic_area);
+**函数：**
+
+```c++
+void _CALL_STD delete_dynamic(unsigned long dynamic_area);
+```
+
+```C#
+public static extern void delete_dynamic(IntPtr area_tree);
+```
+
+```Delphi
+procedure delete_dynamic(area_tree:longword); stdcall external 'YQNetCom';
+```
 
 #### 5.5 更新动态区-图⽂⽂件 update_dynamic
 **返回值：**成功返回0；失败返回错误号 
@@ -690,7 +1158,19 @@
 
 **说明：** 更新动态区-图⽂⽂件
 
-**函数：**int _CALL_STD update_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist, int immediately_play, int conver, int onlyUpdate);
+**函数：**
+
+```c++
+int _CALL_STD update_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist, int immediately_play, int conver, int onlyUpdate);
+```
+
+```C#
+public static extern int update_dynamic(byte[] ip, ushort port, string user_name, string user_pwd, IntPtr dynamic_playlist, int immediately_play, int conver, int onlyUpdate);
+```
+
+```Delphi
+function update_dynamic(ip: pchar; port: longword; user_name, user_pwd: pwidechar; dynamic_playlist: longword; immediately_play,  conver,  onlyUpdate: integer): integer;stdcall external 'YQNetCom';
+```
 
 #### 5.6  更新动态区-⽂本 update_dynamic_small
 **返回值：**成功返回0；失败返回错误号 
@@ -710,7 +1190,19 @@
 
 **说明：** 更新动态区-⽂本
 
-**函数：**int _CALL_STD update_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist, int immediately_play, int conver, int onlyUpdate);
+**函数：**
+
+```c++
+int _CALL_STD update_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist, int immediately_play, int conver, int onlyUpdate);
+```
+
+```C#
+public static extern int update_dynamic_small(byte[] ip, ushort port, string user_name, string user_pwd, IntPtr dynamic_playlist, int immediately_play, int conver, int onlyUpdate);
+```
+
+```Delphi
+function update_dynamic_small(ip: pchar; port: longword; user_name, user_pwd: pwidechar; dynamic_playlist: longword; immediately_play,  conver,  onlyUpdate: integer): integer;stdcall external 'YQNetCom';
+```
 
 #### 5.7 更新动态区-图⽂素材 update_dynamic_unit
 **返回值：**成功返回0；失败返回错误号 
@@ -727,7 +1219,19 @@
 
 **说明：** 更新动态区-图⽂素材，显⽰屏上有动态区时使⽤，素材类型不能变动，图⽚换图⽚，txt换txt
 
-**函数：**int _CALL_STD update_dynamic_unit(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist);
+**函数：**
+
+```c++
+int _CALL_STD update_dynamic_unit(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist);
+```
+
+```C#
+public static extern int update_dynamic_unit(byte[] ip, ushort port, string user_name, string user_pwd, IntPtr dynamic_playlist);
+```
+
+```Delphi
+function update_dynamic_unit(ip: pchar; port: longword; user_name, user_pwd: pwidechar; dynamic_playlist: longword): integer;stdcall external 'YQNetCom';
+```
 
 #### 5.8 更新动态区-⽂本素材 update_dynamic_unit_small
 **返回值：**成功返回0；失败返回错误号 
@@ -744,7 +1248,19 @@
 
 **说明：** 更新动态区-⽂本素材，显⽰屏上有动态区时使⽤
 
-**函数：**int _CALL_STD update_dynamic_unit_small(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist);
+**函数：**
+
+```c++
+int _CALL_STD update_dynamic_unit_small(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long playlist);
+```
+
+```C#
+public static extern int update_dynamic_unit_small(byte[] ip, ushort port, string user_name, string user_pwd, IntPtr dynamic_playlist);
+```
+
+```Delphi
+function update_dynamic_unit_small(ip: pchar; port: longword; user_name, user_pwd: pwidechar; dynamic_playlist: longword): integer;stdcall external 'YQNetCom';
+```
 
 #### 5.9 删除所有动态区 clear_dynamic
 **返回值：**成功返回0；失败返回错误号 
@@ -760,7 +1276,19 @@
 
 **说明：** 删除所有动态区
 
-**函数：**int _CALL_STD clear_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+**函数：**
+
+```c++
+int _CALL_STD clear_dynamic(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+```
+
+```C#
+public static extern int clear_dynamic(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+function clear_dynamic(ip: pchar; port: longword; user_name, user_pwd: pwidechar): integer;stdcall external 'YQNetCom';
+```
 
 ### 6.屏幕状态API
 
@@ -781,7 +1309,19 @@
 
 **说明：** 查询固件版本
 
-**函数：**int _CALL_STD get_firmware_version(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* firmware_version, _TEXT_CHAR* app_version, _TEXT_CHAR* fpga_version);
+**函数：**
+
+```c++
+int _CALL_STD get_firmware_version(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* firmware_version, _TEXT_CHAR* app_version, _TEXT_CHAR* fpga_version);
+```
+
+```C#
+public static extern int get_firmware_version(byte[] ip, ushort port, string user_name, string user_pwd, byte[] firmware_version, byte[] app_version, byte[] fpga_version);
+```
+
+```Delphi
+
+```
 
 #### 6.2 校时命令 check_time
 **返回值：**成功返回0；失败返回错误号 
@@ -797,7 +1337,19 @@
 
 **说明：** 校时命令
 
-**函数：**int _CALL_STD check_time(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd); 
+**函数：**
+
+```c++
+int _CALL_STD check_time(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd); 
+```
+
+```C#
+public static extern int check_time(byte[] ip, ushort port, string user_name, string user_pwd); 
+```
+
+```Delphi
+
+```
 
 #### 6.3 取得屏幕参数 get_screen_parameters
 **返回值：**成功返回0；失败返回错误号 
@@ -814,7 +1366,19 @@
 
 **说明：** 取得屏幕参数 
 
-**函数：**int _CALL_STD get_screen_parameters(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, BYTE* cards); 
+**函数：**
+
+```c++
+int _CALL_STD get_screen_parameters(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, BYTE* cards); 
+```
+
+```C#
+public static extern int get_screen_parameters(byte[] ip, ushort port, string user_name, string user_pwd, byte[] datas);
+```
+
+```Delphi
+
+```
 
 #### 6.4 节⽬解锁/锁定 lock_program
 **返回值：**成功返回0；失败返回错误号 
@@ -832,7 +1396,19 @@
 
 **说明：** 节⽬解锁/锁定
 
-**函数：**int _CALL_STD lock_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int flag, _TEXT_CHAR* program_name); 
+**函数：**
+
+```c++
+int _CALL_STD lock_program(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int flag, _TEXT_CHAR* program_name); 
+```
+
+```C#
+public static extern int lock_program(byte[] ip, ushort port, string user_name, string user_pwd, int programLock, string programName); 
+```
+
+```Delphi
+
+```
 
 #### 6.5 格式化 reboot
 **返回值：**成功返回0；失败返回错误号 
@@ -848,7 +1424,19 @@
 
 **说明：** 格式化
 
-**函数：**int _CALL_STD reboot(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd); 
+**函数：**
+
+```c++
+int _CALL_STD reboot(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd); 
+```
+
+```C#
+public static extern int reboot(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+
+```
 
 #### 6.6 设置系统⾳量 set_screen_volumn
 **返回值：**成功返回0；失败返回错误号 
@@ -865,7 +1453,19 @@
 
 **说明：** 设置系统⾳量
 
-**函数：**int _CALL_STD set_screen_volumn(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int volumn); 
+**函数：**
+
+```c++
+int _CALL_STD set_screen_volumn(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int volumn); 
+```
+
+```C#
+public static extern int set_screen_volumn(byte[] ip, ushort port, string user_name, string user_pwd, int volumn);
+```
+
+```Delphi
+
+```
 
 #### 6.7 ⼿动调亮 set_screen_brightness
 **返回值：**成功返回0；失败返回错误号 
@@ -882,7 +1482,19 @@
 
 **说明：** ⼿动调亮
 
-**函数：**int _CALL_STD set_screen_brightness(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int brightness); 
+**函数：**
+
+```c++
+int _CALL_STD set_screen_brightness(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int brightness); 
+```
+
+```C#
+public static extern int set_screen_brightness(byte[] ip, ushort port, string user_name, string user_pwd, int brightness);
+```
+
+```Delphi
+
+```
 
 #### 6.8 定时调亮 set_screen_cus_brightness
 **返回值：**成功返回0；失败返回错误号 
@@ -900,7 +1512,19 @@
 
 **说明：** 定时调亮
 
-**函数：**int _CALL_STD set_screen_cus_brightness(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned short* brightness, int data_count); 
+**函数：**
+
+```c++
+int _CALL_STD set_screen_cus_brightness(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned short* brightness, int data_count); 
+```
+
+```C#
+public static extern int set_screen_cus_brightness(byte[] ip, ushort port, string user_name, string user_pwd, ushort[] brightness, int data_count);
+```
+
+```Delphi
+
+```
 
 #### 6.9 ⼿动设置开关机 set_screen_turnonoff
 **返回值：**成功返回0；失败返回错误号 
@@ -917,7 +1541,19 @@
 
 **说明：** ⼿动设置开关机
 
-**函数：**int _CALL_STD set_screen_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int turnonoff_status); 
+**函数：**
+
+```c++
+int _CALL_STD set_screen_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int turnonoff_status); 
+```
+
+```C#
+public static extern int set_screen_turnonoff(byte[] ip, ushort port, string user_name, string user_pwd, int turnonoff);
+```
+
+```Delphi
+function set_screen_turnonoff(ip:pchar;port:longword;user_name,user_pwd:widestring;turnonoff_status:integer):integer; stdcall;  external 'YQNetCom'; 
+```
 
 #### 6.10 创建定时开关机分区 create_turnonoff
 **返回值：**成功返回句柄 
@@ -926,7 +1562,19 @@
 
 **说明：** 创建定时开关机分区
 
-**函数：**unsigned long _CALL_STD create_turnonoff(); 
+**函数：**
+
+```c++
+unsigned long _CALL_STD create_turnonoff(); 
+```
+
+```C#
+public static extern IntPtr create_turnonoff();
+```
+
+```Delphi
+function set_screen_turnonoff(ip:pchar;port:longword;user_name,user_pwd:widestring;turnonoff_status:integer):integer; stdcall;  external 'YQNetCom';
+```
 
 #### 6.11 添加定时开关机时间 add_turnonoff
 **返回值：**成功返回0；失败返回错误号 
@@ -941,7 +1589,19 @@
 
 **说明：** 添加定时开关机时间，⼀组：⼀个开机时间，⼀个关机时间 
 
-**函数：**void _CALL_STD add_turnonoff(unsigned long turnonoff, int action, _TEXT_CHAR* time);
+**函数：**
+
+```c++
+void _CALL_STD add_turnonoff(unsigned long turnonoff, int action, _TEXT_CHAR* time);
+```
+
+```C#
+public static extern void add_turnonoff(IntPtr trunonoff, int action, string name);
+```
+
+```Delphi
+
+```
 
 #### 6.12 设置定时开关机set_screen_cus_turnonoff
 **返回值：**成功返回0；失败返回错误号 
@@ -958,7 +1618,19 @@
 
 **说明：** 设置定时开关机
 
-**函数：**int _CALL_STD set_screen_cus_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long turnonoff);
+**函数：**
+
+```c++
+int _CALL_STD set_screen_cus_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, unsigned long turnonoff);
+```
+
+```C#
+public static extern int set_screen_cus_turnonoff(byte[] ip, ushort port, string user_name, string user_pwd, IntPtr trunonoff);
+```
+
+```Delphi
+
+```
 
 #### 6.13 销毁句柄delete_turnonoff
 **返回值：**成功返回0；失败返回错误号 
@@ -971,7 +1643,19 @@
 
 **说明：** 销毁句柄
 
-**函数：**void _CALL_STD delete_turnonoff(unsigned long turnonoff);
+**函数：**
+
+```c++
+void _CALL_STD delete_turnonoff(unsigned long turnonoff);
+```
+
+```C#
+public static extern void delete_turnonoff(IntPtr trunonoff);
+```
+
+```Delphi
+
+```
 
 #### 6.14 取消定时开关机 cancel_screen_cus_turnonoff
 **返回值：**成功返回0；失败返回错误号 
@@ -987,7 +1671,19 @@
 
 **说明：** 取消定时开关机,保留取消时屏幕状态
 
-**函数：**int _CALL_STD cancel_screen_cus_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+**函数：**
+
+```c++
+int _CALL_STD cancel_screen_cus_turnonoff(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+```
+
+```C#
+public static extern int cancel_screen_cus_turnonoff(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+
+```
 
 #### 6.15 设置屏幕大小 set_screen_size
 
@@ -1007,7 +1703,19 @@
 
 **说明：** 设置屏幕大小
 
-**函数：**int _CALL_STD set_screen_size(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int screen_w, int screen_h, int screenrotation);
+**函数：**
+
+```c++
+int _CALL_STD set_screen_size(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, int screen_w, int screen_h, int screenrotation);
+```
+
+```C#
+public static extern int set_screen_size(byte[] ip, ushort port, string user_name, string user_pwd, int w, int h, int screenrotation);
+```
+
+```Delphi
+
+```
 
 ### 7.功能API
 
@@ -1029,7 +1737,19 @@
 
  **说明：** 屏幕截取
 
- **函数：** int _CALL_STD get_screen_capture(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* file_path, int captureW, int captureH);
+ **函数：**
+
+```c++
+int _CALL_STD get_screen_capture(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd, _TEXT_CHAR* file_path, int captureW, int captureH);
+```
+
+```C#
+public static extern int get_screen_capture(byte[] ip, ushort port, string user_name, string user_pwd, string dest_path, int capture_w, int capture_h);
+```
+
+```Delphi
+
+```
 
 #### 5.9 清除素材 clear_material
 
@@ -1046,7 +1766,19 @@
 
 **说明：** 清除素材
 
-**函数：**int _CALL_STD clear_material(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+**函数：**
+
+```c++
+int _CALL_STD clear_material(char* ip, unsigned short port, _TEXT_CHAR* user_name, _TEXT_CHAR* user_pwd);
+```
+
+```C#
+public static extern int clear_material(byte[] ip, ushort port, string user_name, string user_pwd);
+```
+
+```Delphi
+function clear_material(ip: pchar; port: longword; user_name, user_pwd: pwidechar): integer;stdcall external 'YQNetCom';
+```
 
 ## 附录
 
@@ -1081,7 +1813,7 @@
 
 #### <span id="BroadCast2">5.在线搜索命令返回数据解析格式</span>
 
-```
+```C++
 typedef struct ControllerData
 {
 	int is_dhcp;
@@ -1119,7 +1851,7 @@ typedef struct ControllerData
 
 #### <span id="controllerInfo">6.屏参查询返回数据解析格式</span>
 
-```
+```C++
 typedef struct ControllerInfo
 {
 	int is_dhcp;
